@@ -14,11 +14,11 @@ inactive_text_color=#999999
 inactive_text_shadow_color=#ffffff
 
 placement_ratio=20
-#shadow_delta_height=2
-#shadow_delta_width=0
-#shadow_delta_x=0
-#shadow_delta_y=-10
-#shadow_opacity=50
+shadow_delta_height=
+shadow_delta_width=
+shadow_delta_x=
+shadow_delta_y=
+shadow_opacity=
 
 resize_opacity=100
 move_opacity=100
